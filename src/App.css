@@ -1,0 +1,31 @@
+body{
+   
+}
+.App{
+   position: relative;
+   left: 250px;
+   top: 50px;
+    justify-content: center;
+    font-size: large;
+    justify-content: space-between;
+
+}
+table, th, td {
+
+    border: 1px solid;
+    text-align: center;
+    padding: 8px;
+
+}
+table{
+    border-collapse: collapse;
+}
+tr{
+    background-color: #c6bbbb;
+}
+
+
+ tr:hover{
+
+    background-color: rgb(161, 161, 241);
+}
